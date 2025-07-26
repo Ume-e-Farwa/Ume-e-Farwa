@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hi , I'm Um-e-Farwa</h1> <br>🎓 Final Year Software Engineering student at COMSATS University Islamabad, Sahiwal Campus<br>🔭 I’m currently working on Final Year Project(FYP Portal)<br>🌱 I’m currently learning Currently learning Front-End Development: HTML5 • CSS3 • JavaScript • Bootstrap     • Tailwind <br>📈 A creative Front-End Developer focused on building responsive, beautiful, and intuitive interfaces.<br>🚀 Always exploring new tools, frameworks, and ideas to grow<br>🗣️ Happy to share insights about university life, projects, and hands-on experience<br><br>
+<h1>Hi , I'm Um-e-Farwa</h1> <br>🎓 Final Year Software Engineering student at COMSATS University Islamabad, Sahiwal Campus<br>🔭 I’m currently working on Final Year Project(FYP Portal)<br>🌱 I’m currently learning Currently learning Front-End Development: HTML5 • CSS3 • JavaScript • Bootstrap     • Tailwind <br>📈 A creative Front-End Developer focused on building responsive, beautiful, and intuitive interfaces.<br>🚀 Always exploring new tools, frameworks, and ideas to grow<br>🗣️ Happy to share insights about university life, projects, and hands-on experience<br>
 
 
 ## 🌐 Socials:
