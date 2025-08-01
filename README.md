@@ -21,17 +21,17 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ume-farwa" target="_blank">
+  <a href="https://www.linkedin.com/in/ume-farwa-%F0%9F%87%B5%F0%9F%87%B8-554843284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:umefarwa083@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://instagram.com/um_e_farwa.34" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://www.quora.com/profile/Ume-Farwa-105" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
   </a>
 </p>
 
@@ -70,6 +70,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ume-e-Farwa&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ume-e-Farwa&theme=tokyonight" width="48%" />
 </p>
+
+---
+
+### 🔗 Useful Links
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ume-farwa-%F0%9F%87%B5%F0%9F%87%B8-554843284/)
+- 📸 [Instagram](https://instagram.com/um_e_farwa.34)
+- 💌 [Gmail](mailto:umefarwa083@gmail.com)
+- 🧠 [Quora Profile](https://www.quora.com/profile/Ume-Farwa-105)
 
 ---
 
